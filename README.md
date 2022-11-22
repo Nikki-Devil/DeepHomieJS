@@ -11,10 +11,10 @@ To use, create a config.json file with
  }
 ```
 REQUIRED Libraries:
-discord.js  return
-@discordjs/voice  return
-and their dependencies  return
-node-fetch  return
-he  return
+discord.js  
+@discordjs/voice  
+and their dependencies  
+node-fetch  
+he  
 ytdl-core
 
