@@ -10,7 +10,7 @@ To use, create a config.json file with
   "apiKey": <Youtube Api key>
  }
 ```
-REQUIRED Libraries:
+REQUIRED Libraries:  
 discord.js  
 @discordjs/voice  
 and their dependencies  
